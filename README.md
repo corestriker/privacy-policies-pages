@@ -1,0 +1,1 @@
+# Privacy Policy NGINX Server
